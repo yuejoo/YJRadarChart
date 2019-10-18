@@ -15,6 +15,7 @@
 		77B1B6FA2358913100A40D16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77B1B6F82358913100A40D16 /* LaunchScreen.storyboard */; };
 		77B1B7052358913100A40D16 /* YJRadarChartTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B1B7042358913100A40D16 /* YJRadarChartTests.swift */; };
 		77B1B7102358913200A40D16 /* YJRadarChartUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B1B70F2358913200A40D16 /* YJRadarChartUITests.swift */; };
+		77B1B71E2358923100A40D16 /* YJRadarChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B1B71D2358923100A40D16 /* YJRadarChart.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		77B1B70B2358913200A40D16 /* YJRadarChartUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YJRadarChartUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		77B1B70F2358913200A40D16 /* YJRadarChartUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YJRadarChartUITests.swift; sourceTree = "<group>"; };
 		77B1B7112358913200A40D16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77B1B71D2358923100A40D16 /* YJRadarChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YJRadarChart.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				77B1B6F82358913100A40D16 /* LaunchScreen.storyboard */,
 				77B1B6FB2358913100A40D16 /* Info.plist */,
 				77B1B6F52358913100A40D16 /* Preview Content */,
+				77B1B71D2358923100A40D16 /* YJRadarChart.swift */,
 			);
 			path = YJRadarChart;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77B1B71E2358923100A40D16 /* YJRadarChart.swift in Sources */,
 				77B1B6EE2358912D00A40D16 /* AppDelegate.swift in Sources */,
 				77B1B6F02358912D00A40D16 /* SceneDelegate.swift in Sources */,
 				77B1B6F22358912D00A40D16 /* ContentView.swift in Sources */,
